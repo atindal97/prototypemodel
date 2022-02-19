@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: d2f1e0b107c68164c9784867e34a06db
+timeCreated: 1478964065
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bottle
+    100002: box
+    100004: concrete1
+    100006: concrete2
+    100008: concrete3
+    100010: corner_cross
+    100012: cross
+    100014: decal01
+    100016: decal02
+    100018: decal_01
+    100020: decal_01 1
+    100022: decal_01 2
+    100024: decal_01 3
+    100026: decal_011
+    100028: decal_013
+    100030: decal_02
+    100032: decal_02 1
+    100034: decal_02 2
+    100036: decal_022
+    100038: decal_023
+    100040: decal_024
+    100042: decal_03
+    100044: decal_03 1
+    100046: decal_04
+    100048: decal_04 1
+    100050: decal_05
+    100052: decal_05 1
+    100054: decal_06
+    100056: decal_07
+    100058: decal_08
+    100060: end_piece
+    100062: grass
+    100064: grass 1
+    100066: grass 2
+    100068: grass1
+    100070: grass1 1
+    100072: grass1 2
+    100074: grass2
+    100076: grass2 1
+    100078: grass2 2
+    100080: grass3
+    100082: //RootNode
+    100084: meter
+    100086: meter2
+    100088: meter3
+    100090: modular_piece
+    100092: moss
+    100094: moss 1
+    100096: pipes
+    100098: pipes 1
+    100100: pipes 2
+    100102: pipes 3
+    100104: pipes 4
+    100106: plates
+    100108: ploybag
+    100110: polybag
+    100112: props
+    100114: roof
+    100116: roof 1
+    100118: roof 2
+    100120: roof 3
+    100122: roof 4
+    100124: straight
+    100126: straight1
+    100128: T_section
+    100130: tyre
+    100132: vlc
+    100134: vlc1
+    100136: wall
+    100138: wall 1
+    100140: wall 2
+    100142: wall 3
+    100144: wall 4
+    100146: water_pipe
+    100148: wood
+    100150: wood1
+    100152: decal_015
+    100154: decal_016
+    100156: decal_017
+    100158: decal_018
+    100160: decal_019
+    100162: floor
+    100164: grass_01
+    100166: grass_01 1
+    100168: grass_01 2
+    100170: grass_01 3
+    100172: grass_02
+    100174: grass_02 1
+    100176: grass_02 2
+    100178: grass_03
+    100180: grass_03 1
+    100182: hanging_moss
+    100184: moss_hanging
+    100186: polySurface1
+    100188: polySurface2
+    100190: wall1
+    100192: wall2
+    100194: wall3
+    400000: bottle
+    400002: box
+    400004: concrete1
+    400006: concrete2
+    400008: concrete3
+    400010: corner_cross
+    400012: cross
+    400014: decal01
+    400016: decal02
+    400018: decal_01
+    400020: decal_01 1
+    400022: decal_01 2
+    400024: decal_01 3
+    400026: decal_011
+    400028: decal_013
+    400030: decal_02
+    400032: decal_02 1
+    400034: decal_02 2
+    400036: decal_022
+    400038: decal_023
+    400040: decal_024
+    400042: decal_03
+    400044: decal_03 1
+    400046: decal_04
+    400048: decal_04 1
+    400050: decal_05
+    400052: decal_05 1
+    400054: decal_06
+    400056: decal_07
+    400058: decal_08
+    400060: end_piece
+    400062: grass
+    400064: grass 1
+    400066: grass 2
+    400068: grass1
+    400070: grass1 1
+    400072: grass1 2
+    400074: grass2
+    400076: grass2 1
+    400078: grass2 2
+    400080: grass3
+    400082: //RootNode
+    400084: meter
+    400086: meter2
+    400088: meter3
+    400090: modular_piece
+    400092: moss
+    400094: moss 1
+    400096: pipes
+    400098: pipes 1
+    400100: pipes 2
+    400102: pipes 3
+    400104: pipes 4
+    400106: plates
+    400108: ploybag
+    400110: polybag
+    400112: props
+    400114: roof
+    400116: roof 1
+    400118: roof 2
+    400120: roof 3
+    400122: roof 4
+    400124: straight
+    400126: straight1
+    400128: T_section
+    400130: tyre
+    400132: vlc
+    400134: vlc1
+    400136: wall
+    400138: wall 1
+    400140: wall 2
+    400142: wall 3
+    400144: wall 4
+    400146: water_pipe
+    400148: wood
+    400150: wood1
+    400152: decal_015
+    400154: decal_016
+    400156: decal_017
+    400158: decal_018
+    400160: decal_019
+    400162: floor
+    400164: grass_01
+    400166: grass_01 1
+    400168: grass_01 2
+    400170: grass_01 3
+    400172: grass_02
+    400174: grass_02 1
+    400176: grass_02 2
+    400178: grass_03
+    400180: grass_03 1
+    400182: hanging_moss
+    400184: moss_hanging
+    400186: polySurface1
+    400188: polySurface2
+    400190: wall1
+    400192: wall2
+    400194: wall3
+    2300000: bottle
+    2300002: box
+    2300004: concrete1
+    2300006: concrete2
+    2300008: concrete3
+    2300010: decal01
+    2300012: decal02
+    2300014: decal_01
+    2300016: decal_01 1
+    2300018: decal_01 2
+    2300020: decal_01 3
+    2300022: decal_011
+    2300024: decal_013
+    2300026: decal_02
+    2300028: decal_02 1
+    2300030: decal_02 2
+    2300032: decal_022
+    2300034: decal_023
+    2300036: decal_024
+    2300038: decal_03
+    2300040: decal_03 1
+    2300042: decal_04
+    2300044: decal_04 1
+    2300046: decal_05
+    2300048: decal_05 1
+    2300050: decal_06
+    2300052: decal_07
+    2300054: decal_08
+    2300056: end_piece
+    2300058: grass
+    2300060: grass 1
+    2300062: grass 2
+    2300064: grass1
+    2300066: grass1 1
+    2300068: grass1 2
+    2300070: grass2
+    2300072: grass2 1
+    2300074: grass2 2
+    2300076: grass3
+    2300078: meter
+    2300080: meter2
+    2300082: meter3
+    2300084: modular_piece
+    2300086: moss
+    2300088: moss 1
+    2300090: pipes
+    2300092: pipes 1
+    2300094: pipes 2
+    2300096: pipes 3
+    2300098: pipes 4
+    2300100: plates
+    2300102: ploybag
+    2300104: polybag
+    2300106: roof
+    2300108: roof 1
+    2300110: roof 2
+    2300112: roof 3
+    2300114: roof 4
+    2300116: tyre
+    2300118: vlc
+    2300120: vlc1
+    2300122: wall
+    2300124: wall 1
+    2300126: wall 2
+    2300128: wall 3
+    2300130: wall 4
+    2300132: water_pipe
+    2300134: wood
+    2300136: wood1
+    2300138: decal_015
+    2300140: decal_016
+    2300142: decal_017
+    2300144: decal_018
+    2300146: decal_019
+    2300148: floor
+    2300150: grass_01
+    2300152: grass_01 1
+    2300154: grass_01 2
+    2300156: grass_01 3
+    2300158: grass_02
+    2300160: grass_02 1
+    2300162: grass_02 2
+    2300164: grass_03
+    2300166: grass_03 1
+    2300168: hanging_moss
+    2300170: moss_hanging
+    2300172: polySurface1
+    2300174: polySurface2
+    2300176: wall1
+    2300178: wall2
+    2300180: wall3
+    3300000: bottle
+    3300002: box
+    3300004: concrete1
+    3300006: concrete2
+    3300008: concrete3
+    3300010: decal01
+    3300012: decal02
+    3300014: decal_01
+    3300016: decal_01 1
+    3300018: decal_01 2
+    3300020: decal_01 3
+    3300022: decal_011
+    3300024: decal_013
+    3300026: decal_02
+    3300028: decal_02 1
+    3300030: decal_02 2
+    3300032: decal_022
+    3300034: decal_023
+    3300036: decal_024
+    3300038: decal_03
+    3300040: decal_03 1
+    3300042: decal_04
+    3300044: decal_04 1
+    3300046: decal_05
+    3300048: decal_05 1
+    3300050: decal_06
+    3300052: decal_07
+    3300054: decal_08
+    3300056: end_piece
+    3300058: grass
+    3300060: grass 1
+    3300062: grass 2
+    3300064: grass1
+    3300066: grass1 1
+    3300068: grass1 2
+    3300070: grass2
+    3300072: grass2 1
+    3300074: grass2 2
+    3300076: grass3
+    3300078: meter
+    3300080: meter2
+    3300082: meter3
+    3300084: modular_piece
+    3300086: moss
+    3300088: moss 1
+    3300090: pipes
+    3300092: pipes 1
+    3300094: pipes 2
+    3300096: pipes 3
+    3300098: pipes 4
+    3300100: plates
+    3300102: ploybag
+    3300104: polybag
+    3300106: roof
+    3300108: roof 1
+    3300110: roof 2
+    3300112: roof 3
+    3300114: roof 4
+    3300116: tyre
+    3300118: vlc
+    3300120: vlc1
+    3300122: wall
+    3300124: wall 1
+    3300126: wall 2
+    3300128: wall 3
+    3300130: wall 4
+    3300132: water_pipe
+    3300134: wood
+    3300136: wood1
+    3300138: decal_015
+    3300140: decal_016
+    3300142: decal_017
+    3300144: decal_018
+    3300146: decal_019
+    3300148: floor
+    3300150: grass_01
+    3300152: grass_01 1
+    3300154: grass_01 2
+    3300156: grass_01 3
+    3300158: grass_02
+    3300160: grass_02 1
+    3300162: grass_02 2
+    3300164: grass_03
+    3300166: grass_03 1
+    3300168: hanging_moss
+    3300170: moss_hanging
+    3300172: polySurface1
+    3300174: polySurface2
+    3300176: wall1
+    3300178: wall2
+    3300180: wall3
+    4300000: pipes
+    4300002: roof
+    4300004: wall
+    4300006: decal_01
+    4300008: decal_02
+    4300010: decal_03
+    4300012: decal_04
+    4300014: decal_05
+    4300016: moss
+    4300018: grass
+    4300020: grass1
+    4300022: grass2
+    4300024: wall
+    4300026: roof
+    4300028: pipes
+    4300030: decal_01
+    4300032: decal_011
+    4300034: decal_022
+    4300036: decal_023
+    4300038: decal_013
+    4300040: decal_024
+    4300042: moss
+    4300044: grass
+    4300046: pipes
+    4300048: wall
+    4300050: roof
+    4300052: tyre
+    4300054: decal_01
+    4300056: decal_02
+    4300058: decal_03
+    4300060: decal_04
+    4300062: decal_05
+    4300064: decal_06
+    4300066: decal_07
+    4300068: decal_08
+    4300070: grass1
+    4300072: grass2
+    4300074: grass3
+    4300076: pipes
+    4300078: roof
+    4300080: wall
+    4300082: decal_01
+    4300084: decal_02
+    4300086: grass2
+    4300088: grass1
+    4300090: wall
+    4300092: roof
+    4300094: pipes
+    4300096: decal01
+    4300098: decal02
+    4300100: grass
+    4300102: end_piece
+    4300104: modular_piece
+    4300106: vlc
+    4300108: polybag
+    4300110: concrete1
+    4300112: wood
+    4300114: meter
+    4300116: meter2
+    4300118: wood1
+    4300120: box
+    4300122: bottle
+    4300124: concrete3
+    4300126: ploybag
+    4300128: meter3
+    4300130: vlc1
+    4300132: concrete2
+    4300134: plates
+    4300136: water_pipe
+    4300138: moss_hanging
+    4300140: grass_02
+    4300142: grass_03
+    4300144: grass_01
+    4300146: wall1
+    4300148: wall2
+    4300150: wall3
+    4300152: hanging_moss
+    4300154: decal_015
+    4300156: decal_016
+    4300158: decal_017
+    4300160: decal_018
+    4300162: grass_02
+    4300164: grass_03
+    4300166: decal_019
+    4300168: grass_01
+    4300170: grass_01
+    4300172: grass_02
+    4300174: polySurface1
+    4300176: polySurface2
+    4300178: grass_01
+    4300180: floor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
